@@ -15,3 +15,13 @@ https://www.youtube.com/watch?v=pQWj2Fgxdrc -------> Linus' Interview
 https://www.youtube.com/watch?v=WVTWCPoUt8w -------> The Origins of Linux— Linus Torvalds
 
 }
+
+
+Arch Wiki Links
+
+{
+
+https://wiki.archlinux.org/index.php/Arch_boot_process -----> Arch boot process
+
+}
+
