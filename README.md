@@ -25,3 +25,10 @@ https://wiki.archlinux.org/index.php/Arch_boot_process -----> Arch boot process
 
 }
 
+GIT
+
+{
+
+https://www.youtube.com/watch?v=UEb1cvZG3GU -----> GitHub - Why Microsoft Paid $7.5B for the Future of Software! - A Case Study for Entrepreneurs
+
+}
