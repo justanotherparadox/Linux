@@ -32,3 +32,9 @@ GIT
 https://www.youtube.com/watch?v=UEb1cvZG3GU -----> GitHub - Why Microsoft Paid $7.5B for the Future of Software! - A Case Study for Entrepreneurs
 
 }
+
+{
+
+Darvin Architecture typing standard ---> https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture
+
+}
